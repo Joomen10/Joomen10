@@ -6,7 +6,7 @@ I am a third-year Data Science and Computer Science student at New York Universi
 ## 🚀 What I'm Up To
 
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/) and PyTorch
-- 💻 Building Spring Boot applications with PostgreSQL
+- 💻 
 
 Check out my [coding portfolio!](https://joomen10.github.io/ImChrisPark/)
 
@@ -23,6 +23,7 @@ Languages:
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+![Django](https://img.shields.io/badge/django-%233776AB.svg?style=for-the-badge&logo=django&logoColor=white)
 
 Developer Tools: 
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
