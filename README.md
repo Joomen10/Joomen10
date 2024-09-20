@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi 👋 I'm Christopher Park
+💫 About Me:
+I am a third-year Data Science and Computer Science student at New York University, passionate about exploring the realms of coding, machine learning, and building robust applications.
 
-<!--
-**Joomen10/Joomen10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 What I'm Up To
+🤖 Exploring Machine Learning with scikit-learn and PyTorch
+💻 Building Spring Boot applications with PostgreSQL
+Check out my coding portfolio!
 
-Here are some ideas to get you started:
+🎓 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Connect with me:
+LinkedIn
+
+💻 Tech Stack:
+Languages: Python Java SQL HTML5 CSS JavaScript C VHDL
+
+Developer Tools: Postman PowerBI Git
+
+Libraries/Frameworks: AWS ReactJS PostgreSQL Spring Boot NodeJS Azure Docker Drools
