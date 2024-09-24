@@ -5,10 +5,10 @@ I am a third-year Data Science and Computer Science student at New York Universi
 
 ## 🚀 What I'm Up To
 
-- 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/) and PyTorch
+- 🤖 Exploring Machine Learning with scikit-learn and PyTorch
 - 💻 
 
-Check out my [coding portfolio!](https://joomen10.github.io/ImChrisPark/)
+Check out my [Portfolio Website!](https://joomen10.github.io/ImChrisPark/)
 
 
 ## 🌐 Connect with me:
