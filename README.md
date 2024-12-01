@@ -9,6 +9,7 @@ I am a Third-year Data Science and Computer Science student at New York Universi
 - 💻 Interested in Software Engineering, Data Engineering and Data Science 
 
 Check out my [Portfolio Website!](https://joomen10.github.io/ImChrisPark/)
+<img width="1436" alt="Screenshot 2024-11-30 at 10 22 20 PM" src="https://github.com/user-attachments/assets/b3affcc0-8c4f-4724-adc1-d45b97246cf4">
 
 
 ## 🌐 Connect with me:
