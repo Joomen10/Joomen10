@@ -5,7 +5,7 @@ I am a Third-year Data Science and Computer Science student at New York Universi
 
 ## 🚀 What I'm Up To
 
-- 🤖 Exploring Machine Learning with scikit-learn and PyTorch
+- 🤖 Exploring Machine Learning and Computer Vision using PyTorch
 - 💻 Interested in Software Engineering, Data Engineering and Data Science 
 
 Check out my [Portfolio Website!](https://joomen10.github.io/ImChrisPark/)
