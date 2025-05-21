@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋 I'm Christopher Park</h1>
 
 # 💫 About Me:
-I am a Third-year Data Science and Computer Science student at New York University, passionate about exploring the realms of coding, machine learning, and building robust applications.
+I am a Data Science and Computer Science student at New York University, passionate about exploring the realms of coding, data science, machine learning, and building robust applications.
 
 ## 🚀 What I'm Up To
 
 - 🤖 Exploring Machine Learning and Computer Vision using PyTorch
-- 💻 Interested in Software Engineering, Data Engineering and Data Science 
+- 💻 Interested in Software Engineering, Data Engineering, and Data Science 
 
-Check out my [Portfolio Website!](https://joomen10.github.io/ImChrisPark/)
-<img width="1436" alt="Screenshot 2024-11-30 at 10 22 20 PM" src="https://github.com/user-attachments/assets/b3affcc0-8c4f-4724-adc1-d45b97246cf4">
-
+Check out my [Portfolio Website!](https://imchrispark.vercel.app/)
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-jy-park/)
