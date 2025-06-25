@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Christopher Park</h1>
 
 # 💫 About Me:
-I am a Data Science and Computer Science student at New York University, passionate about exploring the realms of coding, data science, machine learning, and building robust applications.
+I am a Data Science and Computer Science student at New York University, passionate about data science, machine learning, and building robust applications.
 
 ## 🚀 What I'm Up To
 
